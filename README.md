@@ -37,7 +37,7 @@ Getting a feel for how Swift Storyboard works and trying to understand Swift syn
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2021 Andrew Tam
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
